@@ -7,3 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Documentação:
+
+### Composer
+    composer install
+    
+### NPM
+    npm install
+    
+### Migration
+    php artisan migrate
+    
+### Seeder
+    php artisan db:seed  
+
+### Autenticação: 
+    php artisan passport:install
+
+### Observação:
+No futuro irá ser implementado login, estrutura no backend está pronta.
